@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá eu sou o Henrique! 👋😄
 
-<!--
-**henrynascim/henrynascim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje eu trabalho com análise financeira 
+- 🌱 Estudando Java
+- 📫 Contate-me no email: henrique-silva200@hotmail.com
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: Eu sou graduado em Relações Internacionais e tenho um gosto eclético para música
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+ 
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynascim&show_icons=true&theme=dracula)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynascim&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Henry-J" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  
+<div style="display: inline_block"><br>
+
+ <a href="https://https://www.linkedin.com/in/henrique-nascimento-546a38165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
