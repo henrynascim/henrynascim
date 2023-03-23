@@ -4,7 +4,7 @@
 - 🌱 Estudando Java
 - 📫 Contate-me no email: henrique-silva200@hotmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu sou graduado em Relações Internacionais e tenho um gosto eclético para música
+- ⚡ Eu sou graduado em Relações Internacionais e tenho um gosto eclético para música
 
 <div style="display: inline_block"><br>
  
@@ -17,7 +17,4 @@
   
 <div style="display: inline_block"><br>
 
- <a href="https://https://www.linkedin.com/in/henrique-nascimento-546a38165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
+ <a href="https://https://www.linkedin.com/in/henrique-nascimento-546a38165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
