@@ -17,4 +17,4 @@
   
 <div style="display: inline_block"><br>
 
- <a href="https://https://www.linkedin.com/in/henrique-nascimento-546a38165" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/henrique-nascimento-546a38165/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
