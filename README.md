@@ -4,8 +4,8 @@
 - 🌱 Studying Java
 - 📫 Contact me at email: henrique-silva200@hotmail.com
 - 😄 Pronouns: he/him
-- ⚡ I have a graduations in International Relations and have an eclectic taste for music
-- 🖥️  About me: 
+- ⚡ Fun fact: I have a graduations in International Relations and have an eclectic taste for music
+- 🖥️ About me: I am an aspirant in technology and intend to one day become a developer
 
 <div>
 
