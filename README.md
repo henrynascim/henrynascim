@@ -1,10 +1,11 @@
-## Olá eu sou o Henrique! 👋😄
+## Hello I'm Henry! 👋😄
 
-- 🔭 Hoje eu trabalho com análise financeira 
-- 🌱 Estudando Java
-- 📫 Contate-me no email: henrique-silva200@hotmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Eu sou graduado em Relações Internacionais e tenho um gosto eclético para música
+- 🔭 Today I work with financial analysis 
+- 🌱 Studying Java
+- 📫 Contact me at email: henrique-silva200@hotmail.com
+- 😄 Pronouns: he/him
+- ⚡ I have a graduations in International Relations and have an eclectic taste for music
+- 🖥️  About me: 
 
 <div>
 
