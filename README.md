@@ -6,6 +6,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a graduations in International Relations and have an eclectic taste for music
 
+- ✌️ About me:  Hello! My name is Henrique and I am a programming enthusiast. Currently, I am studying Java and seeking to improve my skills in this language. My                      goal is to become an experienced and skilled developer, capable of creating innovative and efficient solutions.
+
+                 In addition to Java, I plan to learn Python and C# in the future, expanding my knowledge in different languages and technologies. I am always looking                  for new challenges and opportunities to grow professionally.
+
+                 This is my Github, where I share my projects and studies. Feel free to explore and leave comments. Let's exchange knowledge and grow together!
+                 
 <div>
 
 ##
