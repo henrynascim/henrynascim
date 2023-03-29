@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
  
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynascim&show_icons=true&theme=dracula)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynascim&layout=compact&theme=white-gray)](https://github.com/henrynascim/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynascim&layout=compact&theme=dracula)](https://github.com/henrynascim/github-readme-stats)
 
 <div style="display: inline_block"><br>
 
