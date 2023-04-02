@@ -2,7 +2,6 @@
 
 - 🔭 Today I work with financial analysis 
 - 🌱 Studying Java
-- 📫 Contact me at email: henrique-silva200@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a graduations in International Relations and have an eclectic taste for music
                  
