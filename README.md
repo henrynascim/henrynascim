@@ -2,7 +2,6 @@
 
 - 🔭 Today I work with financial analysis 
 - 🌱 Studying: Python - SQL - Power BI
-- 😄 Pronouns: he/him
                  
 <div>
 
